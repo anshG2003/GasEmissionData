@@ -1,6 +1,6 @@
 Visualization of International Greenhouse Gas Emissions Dataset 
 
-### A React Application to visualize [International Greenhouse Gases Dataset](https://www.kaggle.com/unitednations/international-greenhouse-gas-emissions) .
+### A React Application to visualize [Uncover the Role of Greenhouse Gases in Your Neighborhood!](https://dljsq618eotzp.cloudfront.net/browseui/index.html#oco2geos-co2-daygrid-v10r/) .
 
 ![](https://media1.giphy.com/media/H0VvGdnwbJux2/200w.webp?cid=ecf05e47zhl56ywylk5r07qe7ko4mp8id28p27zfib2qakin&rid=200w.webp&ct=g)
 <br>
@@ -67,10 +67,3 @@ Validation is also attached to the input box to accept input values within the r
 6. For getting the value for the parameter 'query' in URL and setting it in the URL, the two files paramlocation.js and setparams.js are used.
 7. App.js : used for routing purposes.
 8. For getting the value for the parameters 'country' and 'category' in URL and setting it in the URL, the two files pathlocation.js and setpath.js are used.
-
-
-## 🚀 Contribution
-
-If you want to contribute to this project, follow the gudelines in [CONTRIBUTING.md](https://github.com/procheta1999/greenhouse_gases/blob/master/CONTRIBUTING.md)
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
