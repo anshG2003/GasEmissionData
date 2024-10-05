@@ -1,4 +1,4 @@
-# <img src="https://img.icons8.com/clouds/50/000000/react.png"/> <img src="https://img.icons8.com/fluency/48/000000/marketing.png"/> <img src="https://img.icons8.com/color/48/000000/greenhouse-effect.png"/> Visualization of International Greenhouse Gas Emissions Dataset 
+Visualization of International Greenhouse Gas Emissions Dataset 
 
 ### A React Application to visualize [International Greenhouse Gases Dataset](https://www.kaggle.com/unitednations/international-greenhouse-gas-emissions) .
 
