@@ -1,5 +1,5 @@
 {
-  "name": "greeenhouse-gases emission data",
+  "name": "greeenhouse-gases",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
