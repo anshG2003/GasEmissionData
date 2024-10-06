@@ -4,7 +4,7 @@ Visualization of International Greenhouse Gas Emissions Dataset
 
 ![](https://media1.giphy.com/media/H0VvGdnwbJux2/200w.webp?cid=ecf05e47zhl56ywylk5r07qe7ko4mp8id28p27zfib2qakin&rid=200w.webp&ct=g)
 <br>
-<img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/50/000000/external-website-advertising-kiranshastry-lineal-color-kiranshastry.png"/> Deployed on [https://frosty-mcnulty-66df76.netlify.app/](https://frosty-mcnulty-66df76.netlify.app/) .
+<img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/50/000000/external-website-advertising-kiranshastry-lineal-color-kiranshastry.png"/>
 
 ## Libraries Used:
 1. `Ant Design` : for better visualization of dataset (Antd Tables, Input fields and also Card component used)
@@ -14,10 +14,10 @@ Visualization of International Greenhouse Gas Emissions Dataset
 
 #### In the project directory, you can run:
 
-### `yarn install`
+### `npm install`
 
 Installs all the necessary node modules.
-### `yarn start`
+### `npm run start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.

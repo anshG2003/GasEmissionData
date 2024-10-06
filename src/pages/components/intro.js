@@ -4,7 +4,8 @@ const Intro = () =>{
     return(
         <center><Card title="Uncover the Role of Greenhouse Gases in Your Neighborhood!" style={{ width: 1000 }}>
         The development of GHG emission inventories by Parties to the Convention is supported by the scientific and methodological expertise of the Intergovernmental Panel on Climate Change (IPCC). The IPCC's guidance documents, including:
-        • The 2006 Guidelines for National Greenhouse Gas Inventories • The 1996 Revised Guidelines for National Greenhouse Gas Inventories • The 2000 Good Practice Guidance and Uncertainty Management in National Greenhouse Gas Inventories • The 2003 Good Practice Guidance on Land Use, Land-use Change and Forestry
+        • The 2006 Guidelines for National Greenhouse Gas Inventories • The 1996 Revised Guidelines for National Greenhouse Gas Inventories • The 2000 Good Practice Guidance and Uncertainty Management in National Greenhouse Gas Inventories • The 2003 Good Practice Guidance on Land Use, Land-use Change and Forestry.
+        <a href="https://earth.gov/ghgcenter/exploration?search=&datasets=%5B%5D&taxonomy=%7B%7D" target='_blank'>(As per NASA)</a>
         <br></br>
         
         So you may not find information regarding a few countries, here.
